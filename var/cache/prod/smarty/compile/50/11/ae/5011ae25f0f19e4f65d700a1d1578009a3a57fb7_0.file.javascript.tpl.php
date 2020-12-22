@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-22 06:38:50
+/* Smarty version 3.1.34-dev-7, created on 2020-12-22 07:46:56
   from 'C:\xampp\htdocs\prestashop\themes\javascript.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fe1e8dae4cdd0_86601991',
+  'unifunc' => 'content_5fe1f8d041cb69_34259518',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fe1e8dae4cdd0_86601991 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fe1f8d041cb69_34259518 (Smarty_Internal_Template $_smarty_tpl) {
 if (isset($_smarty_tpl->tpl_vars['js_def']->value) && is_array($_smarty_tpl->tpl_vars['js_def']->value) && count($_smarty_tpl->tpl_vars['js_def']->value)) {
 echo '<script'; ?>
  type="text/javascript">

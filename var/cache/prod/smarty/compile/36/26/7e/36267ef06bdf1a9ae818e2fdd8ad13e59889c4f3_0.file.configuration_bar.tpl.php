@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-22 06:38:45
+/* Smarty version 3.1.34-dev-7, created on 2020-12-22 07:46:50
   from 'C:\xampp\htdocs\prestashop\admin234gupekt\themes\default\template\controllers\modules\configuration_bar.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fe1e8d55bc9f4_01113669',
+  'unifunc' => 'content_5fe1f8cab81b96_25901850',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5fe1e8d55bc9f4_01113669 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fe1f8cab81b96_25901850 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\xampp\\htdocs\\prestashop\\vendor\\smarty\\smarty\\libs\\plugins\\modifier.regex_replace.php','function'=>'smarty_modifier_regex_replace',),));
 ?>
 

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-12-22 06:38:13
+/* Smarty version 3.1.34-dev-7, created on 2020-12-22 07:49:26
   from 'C:\xampp\htdocs\prestashop\themes\classic\templates\catalog\_partials\productlist.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5fe1e8b51cc140_55064454',
+  'unifunc' => 'content_5fe1f966216a62_51351499',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/miniatures/product.tpl' => 1,
   ),
 ),false)) {
-function content_5fe1e8b51cc140_55064454 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fe1f966216a62_51351499 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="products<?php if (!empty($_smarty_tpl->tpl_vars['cssClass']->value)) {?> <?php echo htmlspecialchars($_smarty_tpl->tpl_vars['cssClass']->value, ENT_QUOTES, 'UTF-8');
 }?>" itemscope itemtype="http://schema.org/ItemList">
     <?php
