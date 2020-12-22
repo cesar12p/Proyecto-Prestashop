@@ -1379,6 +1379,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
                 61 => 'ps_buybuttonlite',
                 62 => 'blockreassurance',
                 63 => 'ps_facetedsearch',
+                64 => 'stcustomcode',
             ],
             'ps_cache_dir' => 'C:\\xampp\\htdocs\\prestashop/var/cache/prod\\',
             'mail_themes_uri' => '/mails/themes',
